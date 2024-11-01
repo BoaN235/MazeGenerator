@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\noahg\\source\\repos\\MazeGenerator\\ConsoleApp1\\ConsoleApp1.csproj",
-      "projectName": "ConsoleApp1",
-      "projectPath": "C:\\Users\\noahg\\source\\repos\\MazeGenerator\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectUniqueName": "C:\\Users\\noahg\\source\\repos\\MazeGenerator\\ConsoleApp1\\App.csproj",
+      "projectName": "App",
+      "projectPath": "C:\\Users\\noahg\\source\\repos\\MazeGenerator\\ConsoleApp1\\App.csproj",
       "packagesPath": "C:\\Users\\noahg\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\noahg\\source\\repos\\MazeGenerator\\ConsoleApp1\\obj\\",
       "projectStyle": "PackageReference",
